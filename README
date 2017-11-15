@@ -1,0 +1,14 @@
+
+   159735 Parallel Programming Assignment 4
+
+
+   Lensing simulation via CUDA
+
+   To compile: make lensing
+   To run: ./lensing [nlenses] [lens_scale]
+   nlenses is 1 by default, lens_scale is 0.005 by default
+   For example:
+   "./lensing 2 0.001" will calculate a lensing image with lens example 2, and lens_scale 0.001
+
+   Any question, contact raoyonghui0630@gmail.com
+
